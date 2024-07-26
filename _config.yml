@@ -75,7 +75,7 @@ google_analytics:
 #
 theme_mode:   dark # [light|dark]
 
-# The CDN endpoint for images.
+# The CDN endpoint for images.LIBS += -L/scratch/apps/modules/libs/kml -lkml
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #

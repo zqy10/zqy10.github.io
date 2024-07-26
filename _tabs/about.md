@@ -1,14 +1,19 @@
 ---
-title: 关于
+title: About
 icon: fas fa-info
 order: 4
 ---
-- ### Hi there 👋, I'm Tom!
+- ### Hi there 👋, I'm Hulu!
 
-  - 🏫  _BSc in Computer Science_.
+  - 🏫  _ZJU Robotics_.
   - 💻  I work on C / C++ / Java / Objective-C & Swift / Python / Markdown.
   - 🧠  I used to take internship as an iOS developer at Bytedance Techonology.
   - 🏖️  I will go to Shenzhen and work as a back-end engineer at Tencent.
 
-公众号: 汤姆还在写代码
+- ### Contact Me
+  - email:  3508743071@qq.com, 3230100228@zju.edu.cn
+  - github: zqy10
+  - wechat: chinahaizeiwang
+  - QQ: 3508743071
+  - phone: 19558233496
 
