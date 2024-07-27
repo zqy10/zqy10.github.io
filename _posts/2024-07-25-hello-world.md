@@ -1,5 +1,5 @@
 ---
-title: <strong>Hello, World!</strong>
+title: Hello, World!
 date: 2024-07-25 17:25:00 +0800
 categories: [随笔]
 tags: [生活]
