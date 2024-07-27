@@ -186,6 +186,8 @@ exclude:
   - gulpfile.js
   - node_modules
   - package*.json
+  - run.sh
+  - switch.sh
 
 jekyll-archives:
   enabled: [categories, tags]

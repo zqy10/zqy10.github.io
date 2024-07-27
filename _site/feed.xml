@@ -1,0 +1,69 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Hulu</title>
+  <subtitle>这是通过Chirpy主题配置而成的</subtitle>
+  <updated>2024-07-27T15:15:58+08:00</updated>
+  <author>
+    <name>hulu</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 hulu </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title><strong>Hello, World!</strong></title>
+    <link href="http://localhost:4000/posts/hello-world/" rel="alternate" type="text/html" title="<strong>Hello, World!</strong>" />
+    <published>2024-07-25T17:25:00+08:00</published>
+  
+    <updated>2024-07-25T17:25:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/hello-world/</id>
+    <content src="http://localhost:4000/posts/hello-world/" />
+    <author>
+      <name>Hulu</name>
+    </author>
+
+  
+    
+    <category term="随笔" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      感谢关注～
+
+这里可以放代码片段噢～
+//代码片段
+int main(){
+  hello world;
+}
+
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
