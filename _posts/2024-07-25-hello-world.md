@@ -8,7 +8,7 @@ author: Hulu
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../zqy10.github.io
 math: false
 mermaid: true
 
